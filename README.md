@@ -20,6 +20,8 @@ Utiliza-se o EntityManager para gerenciar as operações de inserção, consulta
 
 Importante: JPA é apenas uma interface, enquanto o Hibernate é a implementação concreta que faz o trabalho por trás dos panos.
 
+   ![alt text](image.png)
+
 ##  Tecnologias utilizadas
 
 •Java 17
